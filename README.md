@@ -28,7 +28,7 @@ npx http-server
 
 1. Fork 本仓库
 2. 进入 Settings -> Pages
-3. 在 "Source" 部分选择 `main` 分支作为源
+3. 在 "Source" 部分选择 `master` 分支作为源
 4. 保存后稍等片刻，即可通过 `https://你的用户名.github.io/仓库名/` 访问
 
 ## 💫 每日使用协议
